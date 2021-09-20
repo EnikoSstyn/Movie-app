@@ -7,4 +7,4 @@ It's a movie catalogue, where you can add new movies, you also can delete and ed
 -- Bootsrap 4
 -- Firebase
 
-https://auth-development-13415.firebaseapp.com
+ https://auth-development-13415.web.app
